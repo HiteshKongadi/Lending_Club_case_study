@@ -30,21 +30,22 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+### Python
+- library - Pandas
+- library - NumPy
+- library - matplotlib
+- library - Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was completed as a part of case study for Advanced certification Program for ML and NLP. 
+- This project was based on [Exploratory Data Analysis](https://learn.upgrad.com/course/1990/segment/17994/111435/336965/1752096).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@HiteshKongadi] & [@TAAnalysis] - feel free to contact us!
 
 
 <!-- Optional -->
