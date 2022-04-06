@@ -21,10 +21,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Interest rate played a key role when the customer defaulted that is the loans with higher rate of interest were observed to be defaulted.
+- The residential status was a factor to consider while the customers defaulted like, the customers with rented house were more prone to be charged off.
+- Inquiry since last six month was the major factor which has to be considered as it was observed that the defaulter had almost the double amount of inquiries compared to fully paid customers
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
